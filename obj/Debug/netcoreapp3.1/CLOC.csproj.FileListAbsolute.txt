@@ -1,0 +1,13 @@
+E:\My Projects\Program\CLOC\bin\Debug\netcoreapp3.1\CLOC.exe
+E:\My Projects\Program\CLOC\bin\Debug\netcoreapp3.1\CLOC.deps.json
+E:\My Projects\Program\CLOC\bin\Debug\netcoreapp3.1\CLOC.runtimeconfig.json
+E:\My Projects\Program\CLOC\bin\Debug\netcoreapp3.1\CLOC.runtimeconfig.dev.json
+E:\My Projects\Program\CLOC\bin\Debug\netcoreapp3.1\CLOC.dll
+E:\My Projects\Program\CLOC\bin\Debug\netcoreapp3.1\CLOC.pdb
+E:\My Projects\Program\CLOC\obj\Debug\netcoreapp3.1\CLOC.csprojAssemblyReference.cache
+E:\My Projects\Program\CLOC\obj\Debug\netcoreapp3.1\CLOC.AssemblyInfoInputs.cache
+E:\My Projects\Program\CLOC\obj\Debug\netcoreapp3.1\CLOC.AssemblyInfo.cs
+E:\My Projects\Program\CLOC\obj\Debug\netcoreapp3.1\CLOC.csproj.CoreCompileInputs.cache
+E:\My Projects\Program\CLOC\obj\Debug\netcoreapp3.1\CLOC.dll
+E:\My Projects\Program\CLOC\obj\Debug\netcoreapp3.1\CLOC.pdb
+E:\My Projects\Program\CLOC\obj\Debug\netcoreapp3.1\CLOC.genruntimeconfig.cache
