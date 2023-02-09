@@ -50,7 +50,8 @@ namespace CLOC
 
             int totalLine = result[0] + result[1];
 
-            Console.WriteLine("\nTotal Line : " + result[0] + " Total Blank Space : " + result[1] + " Total Sum : " + totalLine + " Total Folder : " + 
+            Console.WriteLine("\nTotal Line : " + result[0] + " Total Blank Space : " + 
+            result[1] + " Total Sum : " + totalLine + " Total Folder : " + 
             totalFolder + " Total File : " + totalFile);
 
             Console.Write("\nShow Folder Names(Y/Any Key) : ");
@@ -109,7 +110,8 @@ namespace CLOC
                         
                         if(process.ToString().ToUpper() == "Y")
                         {
-                            Console.WriteLine("\nCounting : " + file + " -> " + "Code Line : " + tempResult[0] + " " + "Blank Line : " + tempResult[1]);
+                            Console.WriteLine("\nCounting : " + file + " -> " + "Code Line : " + 
+                            tempResult[0] + " " + "Blank Line : " + tempResult[1]);
                         }
                     }
                 }
@@ -148,7 +150,9 @@ namespace CLOC
         {
             if(Directory.Exists(path) == false)
             {
-                targetDirectory = (Directory.Exists(Directory.GetCurrentDirectory() + path) == true)? Directory.GetCurrentDirectory() + path : "";
+                targetDirectory = (Directory.Exists(Directory.GetCurrentDirectory() + path) == true)? 
+                Directory.GetCurrentDirectory() + path : "";
+                
                 return targetDirectory;
             }
             else
